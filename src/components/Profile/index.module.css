@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Pathway+Gothic+One&display=swap');
+
+.avatar_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 140px;
+}
+
+.player_name {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 14px;
+}

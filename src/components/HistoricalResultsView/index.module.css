@@ -1,0 +1,46 @@
+.collapsed_wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.collapsed_profile_wrapper {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-color: #f9c74fd9;
+    border-radius: 9px;
+    padding: 0px 4px 4px 4px;
+    margin-top: 4px;
+}
+
+button.back_button_wrapper {
+    position: absolute;
+    left: 0px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.back_button_image_wrapper {
+    height: 10px;
+}
+
+.player_name {
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    position: relative;
+}
+
+.root {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    padding: 5px;
+    border-radius: 9px;
+}

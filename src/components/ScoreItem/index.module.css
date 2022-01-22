@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Pathway+Gothic+One&display=swap');
+
+.item_wrapper {
+    display: flex;
+    align-items: center;
+    background-color: #f9c74fd9;
+    border-radius: 9px;
+    margin-top: 4px;
+    padding: 10px 6px;
+    justify-content: space-between;
+}
+
+.player_name {
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.avatar {
+    height: 50px;
+    width: 50px;
+    position: relative;
+}
+
+.data_wrapper {
+    display: flex;
+    background-color: #57759099;
+    border-radius: 8px;
+    margin-right: 5px;
+    padding: 5px;
+    width: 251px;
+    justify-content: space-between;
+}
+
+.detail_wrapper {
+    display: flex;
+    margin-right: 5px;
+}
+
+a.detail_button {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 14px;
+    writing-mode: vertical-rl;
+    width: 30px;
+    padding: 3px;
+}

@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    background-color: #d6ce93d9;
+    padding: 0px 11px 11px;
+    border-radius: 9px;
+    margin-bottom: 6px;
+    width: 100%;
+    justify-content: center;
+}
+
+.spliter {
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}

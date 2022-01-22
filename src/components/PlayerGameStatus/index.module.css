@@ -1,0 +1,33 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.player_name {
+    font-weight: 500;
+    font-size: medium;
+}
+
+.avatar {
+    height: 90px;
+    width: 90px;
+    position: relative;
+}
+
+.winner_badge {
+    height: 30px;
+    position: absolute;
+    left: 53px;
+    top: 62px;
+}
+
+.loser_avatar {
+    opacity: 0.6;
+}
+
+.loser_badge {
+    height: 60px;
+    position: absolute;
+    left: 15px;
+    top: 25px;
+}
